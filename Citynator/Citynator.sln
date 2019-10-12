@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Simulator", "Simulator\Simulator.vcxproj", "{E7A81749-9527-4014-B77A-7B6F4CC2AE00}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Citynator", "Citynator\Citynator.vcxproj", "{E7A81749-9527-4014-B77A-7B6F4CC2AE00}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
